@@ -26,3 +26,13 @@ Instructions:
 *   You can choose any challenge; the more difficult it is, the more highly valued the application will be.
 *   You have until Friday at midnight to fill out this form with the Github link.
 *   Qualified individuals will proceed to the final interview, which will take place next week.
+
+Steps to run:
+
+*   Clone it
+*   npm i on root
+*   npm run start
+*   Go to localhost:3000/json on Postman
+*   Send the POST request with the payload as the image below
+
+![alt text](endpoint.PNG "Title")
